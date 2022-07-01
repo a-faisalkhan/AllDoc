@@ -1,6 +1,6 @@
 package com.bridgelabz.workshop1;
 
-public class Demo {
+public class Hobbies {
 
 	public static void main(String[] args) {
 
@@ -12,7 +12,7 @@ public class Demo {
 				System.out.print(", ");
 			}
 		}
+		
 		System.out.print(".");
 	}
-
 }
